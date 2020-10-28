@@ -177,9 +177,9 @@ packages:
   flutter_chips_input:
     dependency: "direct main"
     description:
-      name: flutter_chips_input
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "../flutter_chips_input"
+      relative: true
+    source: path
     version: "1.9.4"
   flutter_colorpicker:
     dependency: "direct main"
